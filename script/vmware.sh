@@ -45,7 +45,4 @@ if [[ $PACKER_BUILDER_TYPE =~ vmware ]]; then
     umount /mnt/cdrom
     rmdir /mnt/cdrom
     rm -rf /tmp/VMwareTools-*
-
-    echo "==> Removing packages needed for building guest tools"
-    yum -y remove gcc cpp libmpc mpfr kernel-devel kernel-headers perl
 fi
