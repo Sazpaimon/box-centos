@@ -4,7 +4,7 @@ rvm:
 
 env:
   global:
-    - PACKER_DOWNLOAD=https://releases.hashicorp.com/packer/
+    - PACKER_DOWNLOAD=https://releases.hashicorp.com/packer
     - ATLAS_DOWNLOAD=https://github.com/hashicorp/atlas-upload-cli/releases/download
     - secure: "XlJ94FUgG93Cb4Fasev1esv3atVtnWpeEIL5QMG0HqbCkYOsqaeIue52QMc5B5lQc0ZeS8OhiiYLelhGpKtlUw4XQTSnXrJpaC1mP3B6q3zRj878DpNPnkjiHwCmVw2mn17RDpb1pxKSF+IpJesbuxwHRDnkBv8EApTeLFwhQbZYsl9g4sKIJOZEId5P18CZvQpK8Uo3P7ncxEJk944r1JvDSxwCWGPQd8DRhF66Gva0UZ2dIvmQWTdnQlfn/izF/yq897q2Gql0zJFLc+4TmYxQLUASvO6orT50ZNOp6wlFYyq572yw9g93YqcfnPekQPWHzyBxzbzAeN3wIT/v66L2G+OWlr3WiQ2LTiaf22LWXVk3Btksw2aUy6iRzD1sxMneeOIlS2jtfJ1DY/+zMCEAWzvxANK7D4gkEmIdbcYLy38m7ikGx5Zs9qKhUkV4lSLunRf1aI9eN++QrZaqjSeh9Qlbxhvqmsqqm8kFLsX8cxdbgL9gkgmEyBDdpdgLqTdxIKK1Jg5s07iUvlz798xj0Jorusu+K3C8PiAGVpvdnwwSCOtsb72CXSY1KVlLMlJhin+jIBVE49QzAhkmJJ/zMtLx7G+0z1zdRWak5hv7FdxNei5rh1zjDKRIcq8G7z/Zh8PzRbOmBb+cF1waIGQSexL84IS+DhfLAZjCV8I="
 
